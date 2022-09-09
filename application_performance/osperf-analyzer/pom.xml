@@ -25,7 +25,7 @@
 		<testng-version>6.9.8</testng-version>
 		<Jmeter-main-version>2.13</Jmeter-main-version>
 		<Jmeter-report-version>2.12</Jmeter-report-version>
-		<snakeyaml-version>1.16</snakeyaml-version>
+		<snakeyaml-version>1.26</snakeyaml-version>
 		<jfreechart-version>1.0.15</jfreechart-version>
 	</properties>
 
