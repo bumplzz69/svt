@@ -22,7 +22,7 @@
 		<jmeter-maven-plugin-version>1.10.1</jmeter-maven-plugin-version>
 		<jmeter-analysis-maven-plugin-version>1.0.6</jmeter-analysis-maven-plugin-version>
 		<testng-version>6.9.8</testng-version>
-		<Jmeter-main-version>2.13</Jmeter-main-version>
+		<Jmeter-main-version>5.6</Jmeter-main-version>
 		<Jmeter-report-version>2.12</Jmeter-report-version>
 		<snakeyaml-version>1.16</snakeyaml-version>
 		<jfreechart-version>1.0.15</jfreechart-version>
